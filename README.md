@@ -6,34 +6,35 @@ A collection of my LeetCode solutions. This repository is organized by problem d
 
 ### Problem counts by level:
 
-- Total: 44
-- Easy: 14
-- Medium: 22
-- Hard: 8
+- Total: 52
+- Easy: 17
+- Medium: 26
+- Hard: 9
 
 ### Programming languages used (by percentage):
 
-- C++: 34.09%
+- C++: 30.77%
 - C: 25.00%
-- Python: 18.18%
-- Rust: 11.36%
-- SQL: 11.36%
+- Python: 23.08%
+- SQL: 11.54%
+- Rust: 9.62%
 
 ### Programming languages used per level:
 
 - Easy:
   - C++: 6
   - C: 4
+  - SQL: 3
+  - Python: 2
   - Rust: 2
-  - SQL: 2
 - Medium:
-  - C++: 7
-  - C: 5
-  - Python: 5
+  - C++: 8
+  - Python: 7
+  - C: 6
   - Rust: 3
   - SQL: 2
 - Hard:
   - Python: 3
+  - C: 3
   - C++: 2
-  - C: 2
   - SQL: 1
